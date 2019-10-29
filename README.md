@@ -7,4 +7,8 @@ Impressoras usada usada como base
 Graber i3 Tec3d
 
 
-*Peças para impressão foram baseadas na Prusa
+*Peças disponibilizadas para impressão foram baseadas na Prusa
+
+
+https://www.youtube.com/joinfotech
+https://www.instagram.com/joinfotechtips/
